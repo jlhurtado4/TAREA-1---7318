@@ -1,10 +1,8 @@
 UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE
 
-NOMBRE: JUAN HURTADO
-
-NRC: 7318
-
-FECHA: 17 MAYO 2022
+- NOMBRE: JUAN HURTADO
+- NRC: 7318
+- FECHA: 17 MAYO 2022
 
 InformeTarea1
 
@@ -28,7 +26,7 @@ Al finalizar la investigación, los objetivos han de ser identificables con los 
 
 Considerar la Taxonomía de Bloom
 
-MARCO TEÓRICO (RESUMEN)
+2. MARCO TEÓRICO (RESUMEN)
 
 Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
 
@@ -41,19 +39,19 @@ Se describe la teoría o conjunto teórico apropiado con la cual el investigador
 
 Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de texto, para lo cual se debe utilizar mentefactos, cuadro comparativos, esquemas o mapas conceptuales
 
-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 En este punto se debe explicar cómo funcionan la implementación del circuito, programa o resolución de problemas. La solución deb estar en esta sección, no como un archivo anexo.
 
-VIDEO
+4. VIDEO
 
 Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto. En el video se debe explicar 4 ejercicios o problemas.
 
-CONCLUSIONES
+5. CONCLUSIONES
 
 Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
 
-BIBLIOGRAFÍA
+6. BIBLIOGRAFÍA
 
 Emplear normas APA.
 
