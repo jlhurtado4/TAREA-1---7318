@@ -1,4 +1,4 @@
-[texto a mostrar](#TAREA-N1---7318)
+[InformeTarea](#TAREA-1---7318)
 
 UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE
 
