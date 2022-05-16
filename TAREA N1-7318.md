@@ -1,12 +1,10 @@
-[InformeTarea](#TAREA-1---7318)
-
 UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE
 
 - NOMBRE: JUAN HURTADO
 - NRC: 7318
 - FECHA: 17 MAYO 2022
 
-InformeTarea1
+**[InformeTarea](https://github.com/jlhurtado4/TAREA-1---7318)**
 
 1. OBJETIVOS
 
