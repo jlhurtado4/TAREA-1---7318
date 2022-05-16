@@ -4,7 +4,7 @@ UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE
 - NRC: 7318
 - FECHA: 17 MAYO 2022
 
-**[InformeTarea](https://github.com/jlhurtado4/TAREA-1---7318)**
+**InformeTarea1**
 
 1. OBJETIVOS
 
