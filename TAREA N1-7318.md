@@ -45,4 +45,4 @@ BIBLIOGRAFÍA
 Emplear normas APA.
 
 RUBRICA
-https://github.com/jlhurtado4/TAREA-1---7318/blob/main/RubicasTarea.png
+https://github.com/jlhurtado4/TAREA-1---7318/raw/main/RubicasTarea.png
