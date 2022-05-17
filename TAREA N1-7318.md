@@ -106,6 +106,9 @@ La seguridad es un asunto del mayor interés cuando se trabaja con electricidad.
 ![alt text](https://github.com/jlhurtado4/TAREA-1---7318/blob/main/IMAGENES/1_2.jpg)
 ![alt text](https://github.com/jlhurtado4/TAREA-1---7318/blob/main/IMAGENES/1_3.jpg)
 ![alt text](https://github.com/jlhurtado4/TAREA-1---7318/blob/main/IMAGENES/1_4.jpg)
+
+**EJERCICIOS CAPITULO 2**
+
 ![alt text](https://github.com/jlhurtado4/TAREA-1---7318/blob/main/IMAGENES/2_2.jpg)
 ![alt text](https://github.com/jlhurtado4/TAREA-1---7318/blob/main/IMAGENES/2_3.jpg)
 ![alt text](https://github.com/jlhurtado4/TAREA-1---7318/blob/main/IMAGENES/2_4.jpg)
