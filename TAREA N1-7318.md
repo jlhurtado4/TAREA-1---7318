@@ -45,6 +45,7 @@ En este punto se debe explicar cómo funcionan la implementación del circuito, 
 
 **EJERCICIOS CAPITULO 1**
 
+![alt text](https://github.com/jlhurtado4/TAREA-1---7318/raw/main/RubicasTarea.png)
 
 4. VIDEO
 
