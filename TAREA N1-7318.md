@@ -41,7 +41,14 @@ Los prefijos numericos en notacion de ingenieria representan cada una de las pot
 - - femto | f | 10^-15 | un mil billonésimo
 - - pico | p | 10^-12 | un billonésimo
 - - nano | n | 10^-9 | un mil millonesimo
-- - micro | u | 10^-6 |
+- - micro | u | 10^-6 | un millonesimo
+- - mili | m | 10^-3 | un milesimo
+- - kilo | k | 10^3 | un mil
+- - mega | M | 10^6 | un millon
+- - giga | G | 10^9 | un mil millones
+- - tera | T | 10^12 | un billon
+
+- **Conversiones de unidades** En ocasiones es necesario o conveniente convertir la cantidad de una unidad que tiene un prefijo métrico a otra, tal como de miliamperes (mA) a microamperes (mA). Recorriendo el punto decimal del número una cantidad apropiada de lugares hacia la izquierda o la derecha, según la conversión de que se trate, se obtiene la conversión de unidad métrica
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
