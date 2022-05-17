@@ -16,17 +16,32 @@ UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE
 
 2. MARCO TEÓRICO (RESUMEN)
 
-![alt text](https://github.com/jlhurtado4/TAREA-1---7318/blob/main/IMAGENES/CAPITULO_1_mapa_mental_ .jpg)
-Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
+![alt text](https://github.com/jlhurtado4/TAREA-1---7318/blob/main/IMAGENES/CAPITULO%201%20mapa%20mental%20.png)
 
-Se describe la teoría o conjunto teórico apropiado con la cual el investigador enfrenta su proyecto y la realidad dentro del cual se ubica el problema de investigación, incluye:
+- **UNIDADES DE MEDIDA**
+Todas las mediciones pueden ser expresadas como alguna combinacion de unidades fundamentales y complementarias. El sistema SI está basado en siete unidades fundamentales que son:
+- - CANTIDAD | UNIDAD | SIMBOLO
+- - Longitud | (Metro) | [m]
+- - Masa | (Kilogramo) | [kg]
+- - Tiempo | (Segundo) | [s]
+- - Corriente electrica | (Ampere) | [A]
+- - Temperatura | (Kelvin) | [K]
+- - Intensidad Luminosa | (Candela) | [cd]
+- - Cantidad de sustancia | (Mol) | [mol]
 
-- Describir la actual relación entre el problema enunciado y el sistema o sistemas teóricos/conceptuales que pueden guiarlo.
-- Dejar claramente especificada la relación entre la teoría que guía la investigación y la realidad que se percibe como problema de investigación.
-- Conceptualizar el problema en la forma de un modelo, útil para clarificar los conceptos y relaciones conceptuales.
-- Señalar la forma en que la investigación actual enriquece, amplía y profundiza el conocimiento teórico, sustantivo y metodológico acumulado en estudios previos.
+- **Notación Cientifica**
+La notacion cientifica no es nada más que reducir numeros grandes y numeros pequeños, los que contienen demasiadas cifras. Es una manera de simplificar la expresion y así que sea más entendible y facil de resolver operaciones matematicas. 
 
-Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de texto, para lo cual se debe utilizar mentefactos, cuadro comparativos, esquemas o mapas conceptuales
+- **Notación de ingenieria y Prefijos numericos**
+Es similar a la notacion cientifica. Sin embargo, en la notacion de ingeniería un número puede tener de uno a tres digitos a la izquierda del punto decimal y el exponente de potencia de diez debe ser multiplo de tres. Por ejemplo, el número 33.000 expresado en notacion de ingenieria es 33x10^3.
+
+Los prefijos numericos en notacion de ingenieria representan cada una de las potencias de diez mas comunmente utilizadas. Se utilizan prefijos métricos sólo con números que tienen una unidad de medida, tal como volts, amperes y ohms, y preceden al símbolo de la unidad.
+
+- - PREFIJOS NUMERICOS | SIMBOLO | POTENCIA DE DIEZ | VALOR 
+- - femto | f | 10^-15 | un mil billonésimo
+- - pico | p | 10^-12 | un billonésimo
+- - nano | n | 10^-9 | un mil millonesimo
+- - micro | u | 10^-6 |
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
