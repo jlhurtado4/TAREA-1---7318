@@ -16,6 +16,7 @@ UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE
 
 2. MARCO TEÓRICO (RESUMEN)
 
+![alt text](https://github.com/jlhurtado4/TAREA-1---7318/blob/main/IMAGENES/CAPITULO_1_mapa_mental_ .jpg)
 Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
 
 Se describe la teoría o conjunto teórico apropiado con la cual el investigador enfrenta su proyecto y la realidad dentro del cual se ubica el problema de investigación, incluye:
