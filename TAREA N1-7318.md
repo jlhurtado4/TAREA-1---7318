@@ -45,7 +45,10 @@ En este punto se debe explicar cómo funcionan la implementación del circuito, 
 
 **EJERCICIOS CAPITULO 1**
 
-![alt text](https://github.com/jlhurtado4/TAREA-1---7318/raw/main/RubicasTarea.png)
+![alt text](https://github.com/jlhurtado4/TAREA-1---7318/blob/main/IMAGENES/1_1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-1---7318/blob/main/IMAGENES/1_2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-1---7318/blob/main/IMAGENES/1_3.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-1---7318/blob/main/IMAGENES/1_4.jpg)
 
 4. VIDEO
 
@@ -60,4 +63,4 @@ Se estable las conclusiones de cada asunto investigado, implicaciones para la te
 Emplear normas APA.
 
 RUBRICA
-![alt text](https://github.com/jlhurtado4/TAREA-1---7318/raw/main/RubicasTarea.png)
+![alt text](https://github.com/jlhurtado4/TAREA-1---7318/raw/main/IMAGENES/RubicasTarea.png)
