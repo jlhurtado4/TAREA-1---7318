@@ -95,7 +95,6 @@ La seguridad es un asunto del mayor interés cuando se trabaja con electricidad.
 - -Un ohmmetro se conecta en paralelo con un resistor (el resistor debe desconectarse del circuito).
 - -Un coulomb es la carga de 6.25x10^18 electrones.
 - -Un volt es la diferencia de potencial (voltaje) entre dos puntos cuando se utiliza un joule para mover un coulomb de un punto a otro.
-- -Un ampere es la cantidad de corriente que existe cuando un coulomb de carga se mueve por una determinada área de sección transversal de un material en un segundo.
 - -Un ohm es la resistencia cuando existe un ampere de corriente en un material con un volt aplicado al material. 
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
@@ -125,11 +124,13 @@ Aqui den estar el link de youtube de los videos en los que se explique el funcio
 
 5. CONCLUSIONES
 
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
+- La notación cientifica y la notacion de ingenieria, es fundamental saber bien como es el proceso de conversion, ya que se nos ahorraria mucho tiempo al realizar operaciones matematicas con numeros tan grandes o tan pequeños.
+- Saber las unidades fundamentales de medida es indispensable para poder realizar las conversiones, asi mismo los prefijos númericos ya que se nos facilitaria al momento de hacer conversiones o incluso calcular la intensidad, la corriente y los voltajes.
+- Un ampere es la cantidad de corriente que existe cuando un coulomb de carga se mueve por una determinada área de sección transversal de un material en un segundo.
 
 6. BIBLIOGRAFÍA
 
-Emplear normas APA.
+Floyd, T. L, (2007). _PRINCIPIOS DE CIRCUITOS ELECTRICOS_. México: PEARSON EDUCACIÓN.
 
 RUBRICA
 ![alt text](https://github.com/jlhurtado4/TAREA-1---7318/raw/main/IMAGENES/RubicasTarea.png)
