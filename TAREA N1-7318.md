@@ -100,14 +100,18 @@ La seguridad es un asunto del mayor interés cuando se trabaja con electricidad.
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-En este punto se debe explicar cómo funcionan la implementación del circuito, programa o resolución de problemas. La solución deb estar en esta sección, no como un archivo anexo.
-
 **EJERCICIOS CAPITULO 1**
 
 ![alt text](https://github.com/jlhurtado4/TAREA-1---7318/blob/main/IMAGENES/1_1.jpg)
 ![alt text](https://github.com/jlhurtado4/TAREA-1---7318/blob/main/IMAGENES/1_2.jpg)
 ![alt text](https://github.com/jlhurtado4/TAREA-1---7318/blob/main/IMAGENES/1_3.jpg)
 ![alt text](https://github.com/jlhurtado4/TAREA-1---7318/blob/main/IMAGENES/1_4.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-1---7318/blob/main/IMAGENES/2_2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-1---7318/blob/main/IMAGENES/2_3.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-1---7318/blob/main/IMAGENES/2_4.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-1---7318/blob/main/IMAGENES/2_5_1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-1---7318/blob/main/IMAGENES/2_5_2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-1---7318/blob/main/IMAGENES/2_6.jpg)
 
 4. VIDEO
 
